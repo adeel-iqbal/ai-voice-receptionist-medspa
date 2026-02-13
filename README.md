@@ -1,4 +1,4 @@
-# 🤖 AI Voice Receptionist — Med Spa Appointment Agent
+# 🤖 AI Voice Receptionist | Med Spa Appointment Agent
 
 > A fully automated AI voice agent that handles appointment booking, rescheduling, and cancellation for a Med Spa — 24/7, with zero human involvement.
 
@@ -6,7 +6,7 @@
 
 ## 🎬 Demo
 
-[![Watch Demo](demo/demo.mp4)](demo/demo.mp4)
+[▶️ Download & Watch Demo](demo/)
 
 > Full end-to-end call demo — booking, rescheduling, and cancellation in one call.
 
