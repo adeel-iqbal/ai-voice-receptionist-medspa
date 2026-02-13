@@ -103,28 +103,17 @@ Sophia confirms to customer and ends call
 |---|---|
 | ![Reschedule Workflow](shots/1.2.png) | ![Cancel Workflow](shots/1.3.png) |
 
-### VAPI Voice Agent Setup
-![VAPI Assistant](shots/2.png)
+### VAPI, Cal.com & Google Sheets
 
-### Cal.com Availability Settings
-![Cal.com Schedule](shots/3.png)
-
-### Google Sheets — Live Appointment Log
-![Google Sheets](shots/4.png)
+| VAPI Assistant | Cal.com Schedule | Google Sheets Log |
+|---|---|---|
+| ![VAPI](shots/2.png) | ![Cal.com](shots/3.png) | ![Sheets](shots/4.png) |
 
 ### Automated Confirmation Emails
 
-**Booking Confirmation**
-
-![Booking Email 1](shots/5.jpeg) ![Booking Email 2](shots/6.jpeg)
-
-**Reschedule Confirmation**
-
-![Reschedule Email 1](shots/7.jpeg) ![Reschedule Email 2](shots/8.jpeg)
-
-**Cancellation Confirmation**
-
-![Cancel Email 1](shots/9.jpeg) ![Cancel Email 2](shots/10.jpeg)
+| Booking (1/2) | Booking (2/2) | Reschedule (1/2) | Reschedule (2/2) | Cancelled (1/2) | Cancelled (2/2) |
+|---|---|---|---|---|---|
+| ![](shots/5.jpeg) | ![](shots/6.jpeg) | ![](shots/7.jpeg) | ![](shots/8.jpeg) | ![](shots/9.jpeg) | ![](shots/10.jpeg) |
 
 ---
 
